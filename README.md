@@ -56,13 +56,6 @@ My philosophy is simple: **Rigorous Backtesting + Modern AI Stack = Alpha.**
 
 ---
 
-## 📈 GitHub Stats
-
-![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharmarajnish&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmarajnish&layout=compact&theme=radical&hide_border=true)
-
----
-
 <div align="center">
   <i>"In quant finance, the market is a complex adaptive system. In AI, we model them. I do both."</i>
 </div>
